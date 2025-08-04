@@ -19,15 +19,3 @@
 - IBM Granite (Future use)
 - Optional: IBM Cloudant,
 
----
-
-## 🙋‍♂️ Presented By
-**Chaitanya Zalke**  
-B.Tech Final Year  
-JD College of Engineering & Management, Nagpur  
-Intern: IBM SkillsBuild – Edunet Foundation
-
----
-
-## 📄 License
-For academic and non-commercial use only.
